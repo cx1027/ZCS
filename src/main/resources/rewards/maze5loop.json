@@ -1,0 +1,133 @@
+[{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|20"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|110"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|30"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|100"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|40"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|90"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|50"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|80"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|60"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|70"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|65"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|65"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|70"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|60"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|80"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|50"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|90"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|40"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|100"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|30"
+    }
+  ]
+},{
+  "name": "Maze5",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|110"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|20"
+    }
+  ]
+}]

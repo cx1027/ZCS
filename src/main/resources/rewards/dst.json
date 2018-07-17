@@ -1,0 +1,13 @@
+{
+  "name": "DST",
+  "rewards": [
+    {
+      "location": "1|2",
+      "reward": 5
+    },
+    {
+      "location": "3|2",
+      "reward": 50
+    }
+  ]
+}

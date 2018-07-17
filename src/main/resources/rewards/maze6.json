@@ -1,0 +1,13 @@
+[{
+  "name": "Maze6",
+  "rewards": [
+    {
+      "location": "1|7",
+      "reward": "-1|30"
+    },
+    {
+      "location": "7|1",
+      "reward": "-1|100"
+    }
+  ]
+}]
